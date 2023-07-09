@@ -1,0 +1,9 @@
+D:/Kuliahan/Flutter/UAS/uas_flutter_02/New folder/flutter_application_2/build/windows/runner/Debug/data/icudtl.dat
+D:/Kuliahan/Flutter/UAS/uas_flutter_02/New folder/flutter_application_2/build/windows/runner/Debug/flutter_windows.dll
+D:/Kuliahan/Flutter/UAS/uas_flutter_02/New folder/flutter_application_2/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+D:/Kuliahan/Flutter/UAS/uas_flutter_02/New folder/flutter_application_2/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+D:/Kuliahan/Flutter/UAS/uas_flutter_02/New folder/flutter_application_2/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+D:/Kuliahan/Flutter/UAS/uas_flutter_02/New folder/flutter_application_2/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+D:/Kuliahan/Flutter/UAS/uas_flutter_02/New folder/flutter_application_2/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+D:/Kuliahan/Flutter/UAS/uas_flutter_02/New folder/flutter_application_2/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+D:/Kuliahan/Flutter/UAS/uas_flutter_02/New folder/flutter_application_2/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Kuliahan\Flutter\UAS\uas_flutter_02\New folder\flutter_application_2\build\windows\CMakeFiles\af1e1f64ba12b2faeef00b9c3b07826b\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{E146A78B-D884-34CC-BA6C-EF9E956DE00A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
